@@ -1,6 +1,6 @@
 # HTML Assignment 2
 
-This project covers core HTML, CSS, and JavaScript concepts for assignment completion.
+By This project I have covered core HTML, CSS, and JavaScript concepts for assignment completion.
 
 ## Topics Covered
 
