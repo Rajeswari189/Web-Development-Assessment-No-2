@@ -16,3 +16,5 @@ By This project I have covered core HTML, CSS, and JavaScript concepts for assig
 
 ## How to Run
 Just open `index.html` in any browser.
+# you will get like this
+![image](https://github.com/user-attachments/assets/15e3dd12-f973-44ba-9aec-1dd69ac8fcb6)
